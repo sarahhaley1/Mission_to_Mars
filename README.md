@@ -1,2 +1,2 @@
 # Mission_to_Mars
-HTML , Flask
+HTML; webscraping; chromedriver; splinter; Beautiful soup
