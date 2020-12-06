@@ -8,4 +8,4 @@ The purpose of the Mission to Mars analysis was going through the Nasa website a
 
 ### Results
 Through webscraping, images of Mars Hemispheres and facts about Mars are able to be displayed. 
-![styled_app]"templates/styled_app.png"
+![styled_app](templates/styled_app.png)
